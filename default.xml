@@ -278,7 +278,7 @@
 
   <project path="device/htc/endeavoru" name="android_device_htc_endeavoru" remote="icecold" revision="ics" />
   <project path="external/wpa_supplicant_8" name="android_external_wpa_supplicant_8" remote="icecold" revision="p-ics-mr1-release" />
-  <project path="frameworks/base" name="AOKP/frameworks_base" remote="icecold" revision="ics" />  
+  <project path="frameworks/base" name="frameworks_base" remote="icecold" revision="ics" />  
   <project path="hardware/ti/wlan" name="android_hardware_ti_wlan" remote="icecold" revision="p-ics-mr1-release" />
   <project path="packages/apps/Camera" name="packages_apps_Camera" remote="icecold" revision="ics" />
   <project path="vendor/htc/endeavoru" name="android_vendor_htc_endeavoru" remote="icecold" revision="ics" />
