@@ -156,7 +156,6 @@
   <project path="external/webrtc" name="platform/external/webrtc" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"/>
   <project path="external/wpa_supplicant" name="AOKP/external_wpa_supplicant" remote="gh" revision="ics" />
   <project path="external/wpa_supplicant_6" name="AOKP/external_wpa_supplicant_6" remote="gh" revision="ics" />
-  <project path="external/wpa_supplicant_8" name="AOKP/external_wpa_supplicant_8" remote="gh" revision="ics" />
   <project path="external/xmlwriter" name="platform/external/xmlwriter" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"/>
   <project path="external/yaffs2" name="AOKP/external_yaffs2" remote="gh" revision="ics" />
   <project path="external/zlib" name="AOKP/external_zlib" remote="gh" revision="ics" />
@@ -247,7 +246,6 @@
   <project path="system/core" name="AOKP/system_core" remote="gh" revision="ics" />
   <project path="system/extras" name="CyanogenMod/android_system_extras" remote="gh" revision="ics" />
   <project path="system/media" name="AOKP/system_media" remote="gh" revision="ics" />
-  <project path="system/netd" name="platform/system/netd" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"/>
   <project path="system/vold" name="AOKP/system_vold" remote="gh" revision="ics" />
 
   <project path="vendor/htc" name="AOKP/vendor_htc" remote="gh" revision="ics" />
@@ -274,9 +272,11 @@
   <project path="platform_manifest" name="platform_manifest" remote="icecold" revision="ics" />
 
   <project path="device/htc/endeavoru" name="android_device_htc_endeavoru" remote="icecold" revision="ics" />
+    <project path="external/wpa_supplicant_8" name="external_wpa_supplicant_8" remote="icecold" revision="ics" />
   <project path="frameworks/base" name="frameworks_base" remote="icecold" revision="ics" />  
   <project path="packages/apps/Camera" name="packages_apps_Camera" remote="icecold" revision="ics" />
   <project path="packages/providers/ContactsProvider" name="packages_providers_ContactsProvider" revision="ics" remote="icecold" />
+  <project path="system/netd" name="platform/system/netd" remote="icecold" revision="ics"/>
   <project path="vendor/htc/endeavoru" name="android_vendor_htc_endeavoru" remote="icecold" revision="ics" />
   <project path="vendor/aokp" name="vendor_aokp" remote="icecold" revision="ics" />
 
