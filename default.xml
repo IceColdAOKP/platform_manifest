@@ -272,7 +272,7 @@
   <project path="platform_manifest" name="platform_manifest" remote="icecold" revision="ics" />
 
   <project path="device/htc/endeavoru" name="android_device_htc_endeavoru" remote="icecold" revision="ics" />
-    <project path="external/wpa_supplicant_8" name="external_wpa_supplicant_8" remote="icecold" revision="ics" />
+    <project path="external/wpa_supplicant_8" name="android_external_wpa_supplicant_8" remote="icecold" revision="ics" />
   <project path="frameworks/base" name="frameworks_base" remote="icecold" revision="ics" />  
   <project path="packages/apps/Camera" name="packages_apps_Camera" remote="icecold" revision="ics" />
   <project path="packages/providers/ContactsProvider" name="packages_providers_ContactsProvider" revision="ics" remote="icecold" />
