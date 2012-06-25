@@ -276,7 +276,7 @@
   <project path="frameworks/base" name="frameworks_base" remote="icecold" revision="ics" />  
   <project path="packages/apps/Camera" name="packages_apps_Camera" remote="icecold" revision="ics" />
   <project path="packages/providers/ContactsProvider" name="packages_providers_ContactsProvider" revision="ics" remote="icecold" />
-  <project path="system/netd" name="platform/system/netd" remote="icecold" revision="ics"/>
+  <project path="system/netd" name="android_system_netd" remote="icecold" revision="ics"/>
   <project path="vendor/htc/endeavoru" name="android_vendor_htc_endeavoru" remote="icecold" revision="ics" />
   <project path="vendor/aokp" name="vendor_aokp" remote="icecold" revision="ics" />
 
