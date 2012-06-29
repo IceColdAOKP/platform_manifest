@@ -271,8 +271,8 @@
     <project path="external/wpa_supplicant_8" name="android_external_wpa_supplicant_8" remote="icecold" revision="ics" />
   <project path="frameworks/base" name="frameworks_base" remote="icecold" revision="ics" />  
   <project path="packages/apps/Camera" name="packages_apps_Camera" remote="icecold" revision="ics" />
-  <project path="packages/apps/DeskClock" name="AOKP/packages_apps_DeskClock" remote="icecold" revision="ics" />
-  <project path="packages/apps/Phone" name="AOKP/packages_apps_Phone" remote="icecold" revision="ics" />
+  <project path="packages/apps/DeskClock" name="packages_apps_DeskClock" remote="icecold" revision="ics" />
+  <project path="packages/apps/Phone" name="packages_apps_Phone" remote="icecold" revision="ics" />
   <project path="packages/apps/ROMControl" name="packages_apps_ROMControl" remote="icecold" revision="ics" />
   <project path="packages/apps/Settings" name="packages_apps_Settings" remote="icecold" revision="ics" />
   <project path="packages/providers/ContactsProvider" name="packages_providers_ContactsProvider" revision="ics" remote="icecold" />
