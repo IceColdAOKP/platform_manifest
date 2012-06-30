@@ -271,6 +271,7 @@
   <project path="frameworks/base" name="frameworks_base" remote="icecold" revision="ics" />  
   <project path="packages/apps/Camera" name="packages_apps_Camera" remote="icecold" revision="ics" />
   <project path="packages/apps/DeskClock" name="packages_apps_DeskClock" remote="icecold" revision="ics" />
+  <project path="packages/apps/DSPManager" name="CyanogenMod/android_packages_apps_DSPManager" remote="gh" revision="ics" />
   <project path="packages/apps/Phone" name="packages_apps_Phone" remote="icecold" revision="ics" />
   <project path="packages/apps/ROMControl" name="packages_apps_ROMControl" remote="icecold" revision="ics" />
   <project path="packages/apps/Settings" name="packages_apps_Settings" remote="icecold" revision="ics" />
