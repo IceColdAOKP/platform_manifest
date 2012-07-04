@@ -199,14 +199,12 @@
   <project path="packages/apps/CellBroadcastReceiver" name="platform/packages/apps/CellBroadcastReceiver" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"/>
   <project path="packages/apps/CertInstaller" name="platform/packages/apps/CertInstaller" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"/>
   <project path="packages/apps/Contacts" name="AOKP/packages_apps_Contacts" remote="gh" revision="ics" />
-  <project path="packages/apps/Email" name="AOKP/packages_apps_Email" remote="gh" revision="ics"/>
   <project path="packages/apps/Exchange" name="platform/packages/apps/Exchange" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"/>
   <project path="packages/apps/Gallery" name="platform/packages/apps/Gallery" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"/>
   <project path="packages/apps/Gallery2" name="platform/packages/apps/Gallery2" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"/>
   <project path="packages/apps/HTMLViewer" name="platform/packages/apps/HTMLViewer" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"/>
   <project path="packages/apps/KeyChain" name="platform/packages/apps/KeyChain" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"/>
   <project path="packages/apps/Launcher2" name="platform/packages/apps/Launcher2" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"/>
-  <project path="packages/apps/Mms" name="AOKP/packages_apps_Mms" remote="gh" revision="ics" />
   <project path="packages/apps/Music" name="platform/packages/apps/Music" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"/>
   <project path="packages/apps/MusicFX" name="platform/packages/apps/MusicFX" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"/>
   <project path="packages/apps/Nfc" name="AOKP/packages_apps_Nfc" remote="gh" revision="ics"/>
@@ -277,7 +275,9 @@
   <project path="packages/apps/Camera" name="packages_apps_Camera" remote="icecold" revision="ics" />
   <project path="packages/apps/DeskClock" name="packages_apps_DeskClock" remote="icecold" revision="ics" />
   <project path="packages/apps/DSPManager" name="CyanogenMod/android_packages_apps_DSPManager" remote="gh" revision="ics" />
+    <project path="packages/apps/Email" name="packages_apps_Email" remote="icecold" revision="ics"/>
   <project path="packages/apps/FileManager" name="platform_packages_apps_FileManager" remote="icecold" revision="ics-devel" />
+  <project path="packages/apps/Mms" name="packages_apps_Mms" remote="icecold" revision="ics" />
   <project path="packages/apps/Phone" name="packages_apps_Phone" remote="icecold" revision="ics" />
   <project path="packages/apps/ROMControl" name="packages_apps_ROMControl" remote="icecold" revision="ics" />
   <project path="packages/apps/Settings" name="packages_apps_Settings" remote="icecold" revision="ics" />
