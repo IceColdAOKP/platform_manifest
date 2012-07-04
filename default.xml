@@ -272,9 +272,10 @@
   <project path="device/htc/endeavoru" name="android_device_htc_endeavoru" remote="icecold" revision="ics" />
     <project path="external/wpa_supplicant_8" name="android_external_wpa_supplicant_8" remote="icecold" revision="ics" />
   <project path="frameworks/base" name="frameworks_base" remote="icecold" revision="ics" />  
+  <project path="packages/apps/Apollo" name="CyanogenMod/android_packages_apps_DSPManager" remote="gh" revision="ics" />
   <project path="packages/apps/Camera" name="packages_apps_Camera" remote="icecold" revision="ics" />
   <project path="packages/apps/DeskClock" name="packages_apps_DeskClock" remote="icecold" revision="ics" />
-  <project path="packages/apps/DSPManager" name="CyanogenMod/android_packages_apps_DSPManager" remote="gh" revision="ics" />
+  <project path="packages/apps/DSPManager" name="CyanogenMod/android_packages_apps_Apollo" remote="gh" revision="ics" />
     <project path="packages/apps/Email" name="packages_apps_Email" remote="icecold" revision="ics"/>
   <project path="packages/apps/FileManager" name="platform_packages_apps_FileManager" remote="icecold" revision="ics-devel" />
   <project path="packages/apps/Mms" name="packages_apps_Mms" remote="icecold" revision="ics" />
