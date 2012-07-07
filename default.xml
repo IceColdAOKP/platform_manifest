@@ -193,7 +193,6 @@
   <project path="ndk" name="platform/ndk" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"/>
   <project path="packages/apps/BasicSmsReceiver" name="platform/packages/apps/BasicSmsReceiver" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"/>
   <project path="packages/apps/Bluetooth" name="AOKP/packages_apps_Bluetooth" remote="gh" revision="ics"/>
-  <project path="packages/apps/Browser" name="AOKP/packages_apps_Browser" remote="gh" revision="ics" />
   <project path="packages/apps/Calculator" name="platform/packages/apps/Calculator" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"/>
   <project path="packages/apps/Calendar" name="platform/packages/apps/Calendar" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"/>
   <project path="packages/apps/CellBroadcastReceiver" name="platform/packages/apps/CellBroadcastReceiver" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"/>
@@ -272,10 +271,11 @@
   <project path="device/htc/endeavoru" name="android_device_htc_endeavoru" remote="icecold" revision="ics" />
     <project path="external/wpa_supplicant_8" name="android_external_wpa_supplicant_8" remote="icecold" revision="ics" />
   <project path="frameworks/base" name="frameworks_base" remote="icecold" revision="ics" />  
-  <project path="packages/apps/Apollo" name="CyanogenMod/android_packages_apps_DSPManager" remote="gh" revision="ics" />
+  <project path="packages/apps/Apollo" name="CyanogenMod/android_packages_apps_Apollo" remote="gh" revision="ics" />
+  <project path="packages/apps/Browser" name="packages_apps_Browser" remote="icecold" revision="ics" />
   <project path="packages/apps/Camera" name="packages_apps_Camera" remote="icecold" revision="ics" />
   <project path="packages/apps/DeskClock" name="packages_apps_DeskClock" remote="icecold" revision="ics" />
-  <project path="packages/apps/DSPManager" name="CyanogenMod/android_packages_apps_Apollo" remote="gh" revision="ics" />
+  <project path="packages/apps/DSPManager" name="CyanogenMod/android_packages_apps_DSPManager" remote="gh" revision="ics" />
     <project path="packages/apps/Email" name="packages_apps_Email" remote="icecold" revision="ics"/>
   <project path="packages/apps/FileManager" name="platform_packages_apps_FileManager" remote="icecold" revision="ics-devel" />
   <project path="packages/apps/Mms" name="packages_apps_Mms" remote="icecold" revision="ics" />
@@ -289,4 +289,3 @@
   <project path="vendor/aokp" name="vendor_aokp" remote="icecold" revision="ics" />
 
 </manifest>
-
