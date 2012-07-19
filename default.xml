@@ -31,7 +31,6 @@
   <project path="bionic" name="AOKP/bionic" remote="gh" revision="ics" />
   <project path="bootable/bootloader/legacy" name="platform/bootable/bootloader/legacy" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"/>
   <project path="bootable/diskinstaller" name="platform/bootable/diskinstaller" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"/>
-  <project path="bootable/recovery" name="CyanogenMod/android_bootable_recovery" remote="gh" revision="ics" />
   <project path="cts" name="platform/cts" remote="aosp" revision="refs/tags/android-4.0.4_r1.2" />
   <project path="dalvik" name="AOKP/platform_dalvik" remote="gh" revision="ics" />
   <project path="development" name="AOKP/platform_development" remote="gh" revision="ics" />
@@ -267,8 +266,9 @@
 
   <project path="platform_manifest" name="platform_manifest" remote="icecold" revision="ics" />
 
+  <project path="bootable/recovery" name="android_bootable_recovery" remote="ice" revision="ics" />
   <project path="device/htc/endeavoru" name="android_device_htc_endeavoru" remote="icecold" revision="ics" />
-    <project path="external/wpa_supplicant_8" name="android_external_wpa_supplicant_8" remote="icecold" revision="ics" />
+  <project path="external/wpa_supplicant_8" name="android_external_wpa_supplicant_8" remote="icecold" revision="ics" />
   <project path="frameworks/base" name="frameworks_base" remote="icecold" revision="ics" />  
   <project path="packages/apps/Apollo" name="CyanogenMod/android_packages_apps_Apollo" remote="gh" revision="ics" />
   <project path="packages/apps/Browser" name="packages_apps_Browser" remote="icecold" revision="ics" />
